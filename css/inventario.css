@@ -1,0 +1,19 @@
+.card{
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.imagen{    
+ margin-left: 0px;       
+}
+
+@media (max-width: 580px) {
+.card{
+    margin:auto;
+    margin-top: 60px;
+}   
+.imagen{
+   margin:0% ;
+}
+}
